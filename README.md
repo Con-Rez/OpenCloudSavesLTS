@@ -1,6 +1,6 @@
 # Open Cloud Saves LTS
 
-Open Cloud Saves was an open source application for managing your saves games across Windows, MacOS, and Linux (including SteamOS). It was considered to be in beta, but has since been archived by its original creator. This project is an attempt to preserve the functionality of the software for a long-term, stable version by incorporating the ability to update rclone withing the gui and adding the ability to check if you're logged in on application launch.
+Open Cloud Saves was an open source application for managing your saves games across Windows, MacOS, and Linux (including SteamOS). It was considered to be in beta, but has since been archived by its original creator. This project is an attempt to preserve the functionality of the software for a long-term, stable version by incorporating the ability to update rclone within the gui and adding the ability to check if you're logged in on application launch.
 
 The original README included with Open Cloud Saves as developed by [DavidDeSimone](https://github.com/DavidDeSimone) and collaborators [tylorr](https://github.com/tylorr) and [juliettebee](https://github.com/juliettebee) is as follows. All provided compilation directions are working as directed (aside from Flatpak, which was removed due to the project's archival):
 
